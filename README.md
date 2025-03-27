@@ -68,3 +68,88 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+### {
+    "info": {
+        "name": "مهدی ولایتی",
+        "tahsil": "دهم تجربی",
+        "job": "برنامه نویس",
+        "email": "TheMahdiDev@gmail.com",
+        "image": "/profile.jpg",
+        "phone": "09925739670",
+        "taahol": "مجرد",
+        "sarbazi": "",
+        "description": "علم و دانش، چراغ راه من در مسیر زندگی‌ام هستند. با اشتیاق به یادگیری و تجربه، تلاش می‌کنم تا در حوزه کاری ام به مرزهای جدیدی برسم. به عنوان فردی خلاق و متعهد، باور دارم که همکاری و تبادل ایده‌ها می‌تواند به حل چالش‌های پیچیده و ایجاد تغییرات مثبت منجر شود. همیشه به دنبال فرصت‌های جدید برای رشد و توسعه هستم.",
+        "birthdate": "1387/12/24"
+    },
+    "skills": {
+        "HTML": 0,
+        "css": 0,
+        "unity": 0
+    },
+    "softskills": {
+        "مدیریت پروژه": 0,
+        "قدرت تعامل": 0
+    },
+    "projects": {
+        "1": {
+            "name": "قالب رزومه",
+            "langs": {
+                "HTML": 70,
+                "CSS": 30
+            },
+            "date": "2025",
+            "description": "یک قالب رزومه ساده و زیبا",
+            "link": "#"
+        }
+    },
+    "experience": {
+        "1": {
+            "lang": "طراحی وب",
+            "name": "رزومه",
+            "date": "1404/1/4",
+            "description": "سایت رزومه بسیار زیبا و ساده"
+        }
+    },
+    "intrests": {
+        "1": "Minecraft"
+    },
+    "langs": {
+        "english": {
+            "vocabulary": 0,
+            "grammer": 0,
+            "listening": 0,
+            "speaking": 0
+        }
+    },
+    "certificate": {
+        "1": {
+            "lang": "python",
+            "source": "harvard",
+            "link": "#hh",
+            "pic_link": "/certificate/1.jpg"
+        }
+    },
+    "social": {
+        "Eita": "https://eitaa.ir/TheMahdiDev",
+        "Shad": "https://shad.ir/TheMahdiDev",
+        "rubika": "https://rubika.ir/@drmahdidev",
+        "Telegram": "https://t.me/TheMahdiDev",
+        "Youtube": "https://www.youtube.com/@TheMahdiDev",
+        "Github": "https://github.com/TheMahdiDev",
+        "Linkedin": "https://www.linkedin.com/in/themahdi-dev-816132352/",
+        "Email": "TheMahdiDev@gmail.com"
+    }
+}
+
+
+
+   git init # در صورتی که هنوز این کار را نکرده‌اید
+   git add .
+   git commit -m "First commit"
+   git branch -M main
+   git remote add origin https://github.com/<username>/<repository-name>.git
+   git push -u origin main

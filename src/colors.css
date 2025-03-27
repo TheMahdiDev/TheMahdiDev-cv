@@ -1,0 +1,417 @@
+.color-w {
+    color: white;
+}
+
+.pr-p {
+    display: flex;
+    justify-items: center;
+    align-items: center;
+}
+
+.pr-pp {
+    display: flex;
+    justify-self: center;
+    align-self: center;
+}
+
+
+
+.HTML {
+    background-color: springgreen;
+}
+
+.CSS {
+    background-color: steelblue;
+}
+
+.Python {
+    background-color: chocolate;
+}
+
+.JS {
+    background-color: blueviolet;
+}
+
+.Java {
+    background-color: yellowgreen;
+}
+
+.CSharp {
+    background-color: wheat;
+}
+
+.CPP {
+    background-color: violet;
+}
+
+.PHP {
+    background-color: turquoise;
+}
+
+.C {
+    background-color: tomato;
+}
+
+.TS {
+    background-color: brown;
+}
+
+.Ruby {
+    background-color: burlywood;
+}
+
+.Swift {
+    background-color: crimson;
+}
+
+.Go {
+    background-color: coral;
+}
+
+.Kotlin {
+    background-color: cornflowerblue;
+}
+
+.Rust {
+    background-color: darkcyan;
+}
+
+.R {
+    background-color: darkred;
+}
+
+.Dart {
+    background-color: darkgreen;
+}
+
+.Scala {
+    background-color: dodgerblue;
+}
+
+.ObjectiveC {
+    background-color: hotpink;
+}
+
+.Perl {
+    background-color: darkslategrey;
+}
+
+.Elixir {
+    background-color: deeppink;
+}
+
+.Haskell {
+    background-color: snow;
+}
+
+.Lua {
+    background-color: darksalmon;
+}
+
+.Groovy {
+    background-color: whitesmoke;
+}
+
+.Julia {
+    background-color: forestgreen;
+}
+
+.FSharp {
+    background-color: yellow;
+}
+
+.Scheme {
+    background-color: khaki;
+}
+
+.Prolog {
+    background-color: plum;
+}
+
+.VisualBasic {
+    background-color: peru;
+}
+
+.Cobol {
+    background-color: teal;
+}
+
+.Ada {
+    background-color: tan;
+}
+
+.Clojure {
+    background-color: turquoise;
+}
+
+.SQL {
+    background-color: thistle;
+}
+
+.Bash {
+    background-color: darkgrey;
+}
+
+.SQL {
+    background-color: sandybrown;
+}
+
+.Tcl {
+    background-color: forestgreen;
+}
+
+.Scratch {
+    background-color: honeydew;
+}
+
+.VHDL {
+    background-color: khaki;
+}
+
+.Racket {
+    background-color: yellowgreen;
+}
+
+.Elm {
+    background-color: tomato;
+}
+
+.Crystal {
+    background-color: red;
+}
+
+.Nim {
+    background-color: burlywood;
+}
+
+.OCaml {
+    background-color: gold;
+}
+
+.Smalltalk {
+    background-color: grey;
+}
+
+.Apex {
+    background-color: green;
+}
+
+.PowerShell {
+    background-color: ghostwhite;
+}
+
+.Solidity {
+    background-color: goldenrod;
+}
+
+.ABAP {
+    background-color: royalblue;
+}
+
+.Dart {
+    background-color: rosybrown;
+}
+
+.ActionScript {
+    background-color: rebeccapurple;
+}
+
+.QSharp {
+    background-color: red;
+}
+
+.CoffeeScript {
+    background-color: wheat;
+}
+
+.Lisp {
+    background-color: firebrick;
+}
+
+.SML {
+    background-color: mediumpurple;
+}
+
+.Simulink {
+    background-color: darkgoldenrod;
+}
+
+.Xojo {
+    background-color: darkgreen;
+}
+
+.VBScript {
+    background-color: darkorchid;
+}
+
+.J {
+    background-color: deepskyblue;
+}
+
+.NAPALM {
+    background-color: dimgray;
+}
+
+.AWK {
+    background-color: darkgray;
+}
+
+.MQL {
+    background-color: darkviolet;
+}
+
+.IronPython {
+    background-color: mediumslateblue;
+}
+
+.D {
+    background-color: mediumspringgreen;
+}
+
+.GAMS {
+    background-color: midnightblue;
+}
+
+.XSLT {
+    background-color: moccasin;
+}
+
+.PASCAL {
+    background-color: mediumslateblue;
+}
+
+.PostScript {
+    background-color: maroon;
+}
+
+.PureScript {
+    background-color: navy;
+}
+
+.Fancy {
+    background-color: forestgreen;
+}
+
+.Dut {
+    background-color: lightyellow;
+}
+
+.K {
+    background-color: indigo;
+}
+
+.Tcl {
+    background-color: indianred;
+}
+
+.Visual FoxPro {
+    background-color: firebrick;
+}
+
+.RPG {
+    background-color: darkorchid;
+}
+
+.Nimrod {
+    background-color: darkgrey;
+}
+
+.Pike {
+    background-color: greenyellow;
+}
+
+.MSP {
+    background-color: gainsboro;
+}
+
+.Processing {
+    background-color: darkslategray;
+}
+
+.Forth {
+    background-color: darkseagreen;
+}
+
+.ABC {
+    background-color: darkgreen;
+}
+
+.Inform {
+    background-color: darkorchid;
+}
+
+.APL {
+    background-color: darkcyan;
+}
+
+.Xojo {
+    background-color: darkblue;
+}
+
+.OpenCL {
+    background-color: cyan;
+}
+
+.Raku {
+    background-color: cornsilk;
+}
+
+.RPL {
+    background-color: cornflowerblue;
+}
+
+.Raku {
+    background-color: coral;
+}
+
+.MUMPS {
+    background-color: cadetblue;
+}
+
+.Tcl {
+    background-color: chartreuse;
+}
+
+.Modula-2 {
+    background-color: chocolate;
+}
+
+.Turing {
+    background-color: burlywood;
+}
+
+.APL {
+    background-color: blueviolet;
+}
+
+.LISP {
+    background-color: bisque;
+}
+
+.MaxScript {
+    background-color: beige;
+}
+
+.MQL4 {
+    background-color: azure;
+}
+
+.Ceylon {
+    background-color: aquamarine;
+}
+
+.AutoIt {
+    background-color: aqua;
+}
+
+.Ring {
+    background-color: antiquewhite;
+}
+
+.Common Lisp {
+    background-color: aliceblue;
+}
+
+.Turing {
+    background-color: rebeccapurple;
+}

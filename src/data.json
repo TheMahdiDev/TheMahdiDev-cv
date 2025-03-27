@@ -1,0 +1,65 @@
+{
+    "info": {
+        "name": "مهدی ولایتی",
+        "tahsil": "دهم تجربی",
+        "job": "برنامه نویس",
+        "email": "TheMahdiDev@gmail.com",
+        "image": "/profile.jpg",
+        "phone": "09925739670",
+        "taahol": "مجرد",
+        "sarbazi": "مشمول",
+        "description": "",
+        "birthdate": "1387/12/24"
+    },
+    "skills": {
+        "HTML": 100,
+        "css": 50,
+        "bootstrap": 50,
+        "python": 70,
+        "JavaScript": 40,
+        "reactjs": 30
+    },
+    "softskills": {},
+    "projects": {
+        "1": {
+            "name": "وبسایت رزومه",
+            "langs": {
+                "JS": 70,
+                "HTML": 20,
+                "CSS": 10
+            },
+            "date": "2025",
+            "description": "وبسایت رزومه ساخته شده با ری اکت جی اس با قابلیت های بسیار زیاد و قابل ویرایش با جی سون برای هر شخص",
+            "link": "https://github.com/TheMahdiDev/CV"
+        }
+    },
+    "experience": {},
+    "intrests": {
+        "1": "Minecraft",
+        "2": "Volly ball"
+    },
+    "langs": {
+        "english": {
+            "vocabulary": 25,
+            "grammer": 25,
+            "listening": 25,
+            "speaking": 25
+        }
+    },
+    "certificate": {},
+    "social": {
+        "Email": "TheMahdiDev@gmail.com",
+        "Telegram": "https://t.me/TheMahdiDev",
+        "Youtube": "https://www.youtube.com/@TheMahdiDev",
+        "Github": "https://github.com/TheMahdiDev",
+        "Linkedin": "https://www.linkedin.com/in/themahdi-dev-816132352/",
+        "StackOverFlow": "https://stackoverflow.com/users/25822107/themahdi-dev",
+        "CodePen": "https://codepen.io/TheMahdidev/",
+        "X": "https://twitter.com/TheMahdiDev",
+        "twitch": "https://www.twitch.tv/TheMahdiDev",
+        "Reddit": "https://www.reddit.com/user/TheMahdiDev",
+        "Eita": "https://eitaa.ir/TheMahdiDev",
+        "rubika": "https://rubika.ir/@drmahdidev",
+        "Shad": "https://shad.ir/TheMahdiDev"
+    }
+}

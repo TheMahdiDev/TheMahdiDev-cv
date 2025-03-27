@@ -147,9 +147,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 
-   git init # در صورتی که هنوز این کار را نکرده‌اید
+   git init
    git add .
    git commit -m "First commit"
    git branch -M main
-   git remote add origin https://github.com/<username>/<repository-name>.git
+   git remote add origin https://github.com/TheMahdiDev/CV.git
    git push -u origin main

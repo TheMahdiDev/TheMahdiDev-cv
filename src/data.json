@@ -8,8 +8,7 @@
         "phone": "09925739670",
         "taahol": "مجرد",
         "sarbazi": "مشمول",
-        "description": "",
-        "birthdate": "1387/12/24"
+        "description": ""
     },
     "skills": {
         "HTML": 100,
@@ -17,7 +16,8 @@
         "bootstrap": 50,
         "python": 70,
         "JavaScript": 40,
-        "reactjs": 30
+        "reactjs": 30,
+        "cpp": 1
     },
     "softskills": {},
     "projects": {
@@ -36,7 +36,7 @@
     "experience": {},
     "intrests": {
         "1": "Minecraft",
-        "2": "Volly ball"
+        "2": "Vollyball"
     },
     "langs": {
         "english": {
@@ -57,9 +57,6 @@
         "CodePen": "https://codepen.io/TheMahdidev/",
         "X": "https://twitter.com/TheMahdiDev",
         "twitch": "https://www.twitch.tv/TheMahdiDev",
-        "Reddit": "https://www.reddit.com/user/TheMahdiDev",
-        "Eita": "https://eitaa.ir/TheMahdiDev",
-        "rubika": "https://rubika.ir/@drmahdidev",
-        "Shad": "https://shad.ir/TheMahdiDev"
+        "Reddit": "https://www.reddit.com/user/TheMahdiDev"
     }
 }

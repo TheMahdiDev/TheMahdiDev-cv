@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -153,3 +154,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
    git branch -M main
    git remote add origin https://github.com/TheMahdiDev/CV.git
    git push -u origin main
+=======
+# CV
+mahdi velayati resume
+>>>>>>> ec3f2cf3aac8ca7a25ff1bf3946117f774b70f8b

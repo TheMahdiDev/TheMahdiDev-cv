@@ -17,9 +17,11 @@
         "python": 70,
         "JavaScript": 40,
         "reactjs": 30,
-        "cpp": 1
+        "cpp": 10
     },
-    "softskills": {},
+    "softskills": {
+        "زبان اشاره": 10
+    },
     "projects": {
         "1": {
             "name": "وبسایت رزومه",
@@ -30,7 +32,7 @@
             },
             "date": "2025",
             "description": "وبسایت رزومه ساخته شده با ری اکت جی اس با قابلیت های بسیار زیاد و قابل ویرایش با جی سون برای هر شخص",
-            "link": "https://github.com/TheMahdiDev/CV"
+            "link": "https://github.com/TheMahdiDev/TheMahdiDev-CV"
         }
     },
     "experience": {},

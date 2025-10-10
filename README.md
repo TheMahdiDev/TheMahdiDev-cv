@@ -75,25 +75,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### {
     "info": {
-        "name": "مهدی ولایتی",
-        "tahsil": "دهم تجربی",
-        "job": "برنامه نویس",
-        "email": "TheMahdiDev@gmail.com",
-        "image": "/profile.jpg",
-        "phone": "09925739670",
-        "taahol": "مجرد",
-        "sarbazi": "",
-        "description": "علم و دانش، چراغ راه من در مسیر زندگی‌ام هستند. با اشتیاق به یادگیری و تجربه، تلاش می‌کنم تا در حوزه کاری ام به مرزهای جدیدی برسم. به عنوان فردی خلاق و متعهد، باور دارم که همکاری و تبادل ایده‌ها می‌تواند به حل چالش‌های پیچیده و ایجاد تغییرات مثبت منجر شود. همیشه به دنبال فرصت‌های جدید برای رشد و توسعه هستم.",
-        "birthdate": "1387/12/24"
-    },
+        "name"
+        "tahsil"
+        "job"
+        "email"
+        "image"
+        "phone"
+        "taahol"
+        "sarbazi"
+        "description"
+        "birthdate"
+    }
     "skills": {
-        "HTML": 0,
-        "css": 0,
-        "unity": 0
+        "HTML" : 10
     },
     "softskills": {
-        "مدیریت پروژه": 0,
-        "قدرت تعامل": 0
+        "مدیریت پروژه": 10
     },
     "projects": {
         "1": {

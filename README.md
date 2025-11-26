@@ -65,9 +65,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
         }
     },
     "social": {
-        "Eita": "https://eitaa.ir/TheMahdiDev",
-        "Shad": "https://shad.ir/TheMahdiDev",
-        "rubika": "https://rubika.ir/@drmahdidev",
         "Telegram": "https://t.me/TheMahdiDev",
         "Youtube": "https://www.youtube.com/@TheMahdiDev",
         "Github": "https://github.com/TheMahdiDev",
@@ -77,10 +74,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 }
 
 
-
+### {
    git init
    git add .
    git commit -m "First commit"
    git branch -M main
    git remote add origin https://github.com/TheMahdiDev/CV.git
    git push -u origin main
+}
